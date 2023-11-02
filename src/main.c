@@ -8,5 +8,7 @@ int main()
 
     int w = 50;
 
+    int z = 5;
+
     printf("%d\n", y);
 }
