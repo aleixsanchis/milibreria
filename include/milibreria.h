@@ -1,0 +1,1 @@
+int suma5(int x);
